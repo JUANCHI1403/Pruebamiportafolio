@@ -1,0 +1,37 @@
+
+.hero-section {
+  text-align: right;
+  background-image: url('../img/fotojfajardo.jpg') ;
+  background-size: cover;
+  color: #ffffff;
+  text-shadow: 0.125em 0.25em 0.125em #707070;
+  padding: 6.25rem 3.125rem;
+}
+
+.row div:nth-child(1){
+    background: yellow
+  }
+  
+  .row div:nth-child(2){
+    background: blue
+  }
+  
+  .row div:nth-child(3){
+    background: red
+  }
+  
+  .row div:nth-child(4){
+    background: purple
+  }
+  
+  .row div:nth-child(5){
+    background: green
+  }
+  
+  .row div:nth-child(6){
+    background: gray
+  }
+  
+  .row div:nth-child(7){
+    background: black
+  }
